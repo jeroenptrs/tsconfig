@@ -1,0 +1,27 @@
+{
+  "name": "@jeroenpeeters/tsconfig",
+  "version": "1.0.0",
+  "description": "tsconfig file for @jeroenpeeters projects",
+  "repository": "jeroenptrs/tsconfig",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": {
+    "name": "Jeroen Peeters",
+    "email": "contact@jeroenpeeters.be"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
