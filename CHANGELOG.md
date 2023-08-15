@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jeroenptrs/tsconfig/compare/v1.0.0...v1.1.0) (2023-08-15)
+
+
+### Features
+
+* move jsx config to react-jsx ([f79da99](https://github.com/jeroenptrs/tsconfig/commit/f79da99623f608c77291d2466ccdabc4ba7a551d))
+
 ## 1.0.0 (2023-07-28)
 
 
