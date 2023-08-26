@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jeroenptrs/tsconfig/compare/v1.1.0...v1.2.0) (2023-08-26)
+
+
+### Features
+
+* set downLevelIteration to true since using tslib ([52c150e](https://github.com/jeroenptrs/tsconfig/commit/52c150ef84489f2d5f1b1bcbb5c99f5c31648d0f))
+
 ## [1.1.0](https://github.com/jeroenptrs/tsconfig/compare/v1.0.0...v1.1.0) (2023-08-15)
 
 
